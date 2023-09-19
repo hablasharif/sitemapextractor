@@ -1,2 +1,7 @@
-Flask
-Gunicorn
+flask
+requests
+bs4
+beautifulsoup
+gunicorn
+lxml
+urllib3
